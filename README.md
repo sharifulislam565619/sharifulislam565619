@@ -3,11 +3,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
-
 - 📫 How to reach me **sharifulislam565619@gmail.com**
-
-- 📄 Know about my experiences [Coming soon...](Coming soon...)
 
 - ⚡ Fun fact **Yes of course 😊😊😊**
 
